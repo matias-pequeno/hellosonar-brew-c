@@ -1,0 +1,6 @@
+#ifndef HELLOSONAR_BID
+#define HELLOSONAR_BID
+
+#define AEECLSID_HELLOSONAR        0x10101010
+
+#endif //HELLOSONAR_BID
